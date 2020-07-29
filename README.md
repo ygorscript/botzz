@@ -1,1 +1,1 @@
-# botzz
+[![Run on Repl.it](https://repl.it/badge/github/ygorscript/botzz)](https://repl.it/github/ygorscript/botzz)
